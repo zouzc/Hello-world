@@ -1,7 +1,3 @@
-# Hello-world
-this is first git
-this is first git
-this is first branch
-adsfasfweew
-afjasklfljaslk
-erjoweoijowerklkl
+
+t1
+
